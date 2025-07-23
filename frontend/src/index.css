@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    scroll-behavior: smooth;
+}
+*::-webkit-scrollbar{
+    @apply bg-white;
+    @apply dark:bg-black w-2;
+}
+*::-webkit-scrollbar-thumb{
+    border-radius: 6px;
+    @apply bg-neutral-300 hover:bg-stone-400 transition-all ;
+    @apply dark:bg-neutral-400;
+}
+*::-webkit-scrollbar-button{
+    @apply h-0;
+}
+
+.customCssInputParent:has(.customCssInput:focus){
+    @apply shadow-md;
+    @apply dark:shadow-slate-600;
+}
