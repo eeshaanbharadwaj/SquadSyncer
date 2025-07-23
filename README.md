@@ -1,5 +1,3 @@
-Thanks for the clarification! Since your project structure includes **three folders** — `frontend`, `backend`, and `chat` — here's a revised, professional `README.md` that reflects your architecture and clearly explains how to run the full stack.
-
 # 🚀 Squad Syncer – Real-Time Team Collaboration Platform
 
 **Squad Syncer** is a full-stack team collaboration app that allows users to create and join squads based on skills and collaborate in real-time. Built with modern web technologies and Socket.io, it focuses on seamless onboarding, secure authentication, and live communication.
