@@ -35,7 +35,7 @@ squad-syncer/
 
 ```bash
 git clone https://github.com/eeshaanbharadwaj/SquadSyncer.git
-cd squad-syncer
+cd squadsyncer
 ```
 
 ### 2️⃣ Frontend Setup
