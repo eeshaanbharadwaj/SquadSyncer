@@ -6,7 +6,7 @@
 
 - 🔹 Skill-based team creation and join requests  
 - 🔹 Real-time messaging using Socket.io  
-- 🔹 Secure user authentication with JWT  
+- 🔹 Secure user authentication with JWT.
 - 🔹 Modular architecture with separate services for frontend, backend, and chat  
 - 🔹 Intuitive user interface with clean navigation between Squad, Chat, and Profile
 
