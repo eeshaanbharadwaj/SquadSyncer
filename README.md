@@ -12,7 +12,7 @@
 
 ## 🧰 Tech Stack
 
-| Layer    | Tech                                    |
+| Layer    |  Tech                                    |
 |----------|-----------------------------------------|
 | Frontend | React, Tailwind CSS                     |
 | Backend  | Node.js, Express, MongoDB               |
