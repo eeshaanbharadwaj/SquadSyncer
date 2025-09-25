@@ -1,4 +1,4 @@
- # 🚀 Squad Syncer – Real-Time Team Collaboration Platform
+  # 🚀 Squad Syncer – Real-Time Team Collaboration Platform
  
 **Squad Syncer** is a full-stack team collaboration app that allows users to create and join squads based on skills and collaborate in real-time. Built with modern web technologies and Socket.io, it focuses on seamless onboarding, secure authentication, and live communication.
  
