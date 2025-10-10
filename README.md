@@ -14,7 +14,7 @@
 
 | Layer    |  Tech                                    |
 |----------|-----------------------------------------|
-| Frontend | React, Tailwind CSS                     |
+| Frontend | React, Tailwind CSS                     | 
 | Backend  | Node.js, Express, MongoDB               |
 | Chat     | Node.js, Socket.io                      |
 | Auth     | JSON Web Tokens (JWT)                   |
